@@ -1,4 +1,4 @@
-# GetherLearn
+# GatherLearn
 
 ## VSCode 설정하기
 1. 코딩 글꼴 설치
